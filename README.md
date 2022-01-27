@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+# Yu-cheng (Rick) Chen
+## § Welcome to my personal website §
 
-You can use the [editor on GitHub](https://github.com/yuchengchen1010/yuchengchen1010.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
