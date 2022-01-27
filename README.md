@@ -1,3 +1,4 @@
+
 # Yu-cheng (Rick) Chen
 
 ## § Welcome to my personal website §
@@ -5,7 +6,7 @@
 ## About Me
 <img src="img/my_photo.jpg" width="150" align=right />
 
-* I’m **Yu-cheng(Rick)Chen(陳昱誠)**,a student in the Department of **Computer Science Information Engineering** in **National Quemoy Unervisity**
+* I’m **Yu-cheng(Rick)Chen(陳昱誠)**,a student in the Department of **Computer Science Information Engineering** in **National Quemoy University**
 * Born on **October 10, 2000**, I am the eldest of two children in my family
 ## Interests and Personalities 
 * I'm a **curious person** who **enjoys trying new things** since I was a kid. I enjoy **basketball**, **playing guitar**, and **reading books** outside of my leisure time.
