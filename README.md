@@ -14,7 +14,7 @@
 
 |name | time |  
 |:----: |:------:|
-|completed **ASVDA Deep learning for Industial Big Data**  | Aug 24, 2020 to Aug 27, 2020 |
+|completed **ASVDA Deep learning for Industial Big Data**  | Aug 24, 2020 <br>to <br> Aug 27, 2020 |
 |completed **NCKU Human Research Ethdics** | Oct 30,2020|
 |passed **TQC Mobile Device Application Professional Level** | May 1,2021|
 |passed **Center for Taiwan Academic Research Ethics Education Certificate of Completion**  | Jun 26,2021 |
