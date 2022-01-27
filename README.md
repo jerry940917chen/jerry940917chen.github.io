@@ -11,6 +11,7 @@
 * I'm a **curious person** who **enjoys trying new things** since I was a kid. I enjoy **basketball**, **playing guitar**, and **reading books** outside of my leisure time.
 *  I like to **spread joy** to my family and friends around me, and I will put my heart and soul into things that interest me.
 ## Learning experience
+
 |name | time |  
 |:----: |:------:|
 |completed **ASVDA Deep learning for Industial Big Data**  | Aug 24, 2020 to Aug 27, 2020 |
@@ -21,6 +22,7 @@
 |passed **TQC Fundamentals of e-Commerce Professional Level** | Nov 13,2021 |
 
 ## Work experience
+
 |name | time |
 |:----:|:----:|
 |**銀座杏子日式豬排新竹大魯閣店**擔任**內場工讀生** | 2019. 03 ~ 2019.08|
