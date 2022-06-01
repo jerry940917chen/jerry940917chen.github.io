@@ -3,8 +3,6 @@
 ## § Welcome to my personal website §
 
 ## About Me
-<img src="img/my_photo.jpg" width="150" align=right />
-
 * I’m **Yu-Cheng(Rick)Chen(陳昱誠)**,a student in the Department of **Computer Science Information Engineering** in **National Quemoy University**
 * Born on **October 10, 2000**, I am the eldest of two children in my family
 ## Interests and Personalities 
