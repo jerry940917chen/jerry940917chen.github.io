@@ -28,9 +28,3 @@
 |:----:|:----:|
 |**銀座杏子日式豬排新竹大魯閣店**擔任**內場工讀生** | 2019. 03 ~ 2019.08|
 |**金沙大地國際渡假飯店**擔任**櫃台服務生** |2020.09 ~ 2021.02|
-
-## contact me 
-
-<a href="https://www.instagram.com/yucheng1010/"><img src="img/instagram_logo.jpg"  width = "100"/></a>
-<a href="https://github.com/cycyucheng1010"><img src="img/github_logo.png" width="130" height = "100"/></a>
-<a href="https://www.facebook.com/yucheng1010/"><img src="img/facebook_logo.png" width="100"/> </a>
