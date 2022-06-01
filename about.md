@@ -21,6 +21,8 @@
 |passed **Center for Taiwan Academic Research Ethics Education Certificate of Completion**  | Jun 26,2021 |
 |passed **TQC Linux Network Management Professional Level** |Nov 13,2021 |
 |passed **TQC Fundamentals of e-Commerce Professional Level** | Nov 13,2021 |
+|passed **TQC artificial intelligence applications and technology** | Mar 23,2022 |
+|completed **AIS3 Kinmen camp** | Apr 3,2022 |
 
 ## Work experience
 
