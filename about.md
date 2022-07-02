@@ -1,33 +1,47 @@
 
-**§ Welcome to my personal website §**
+**§ 歡迎來到我的個人部落格！ §**
 
-## About Me
+## 基本資料
+* 姓名: 陳昱誠(Rick Chen)
+* 生日: 2000-10-10
+* 信箱: rick20001010@gmail.com
+* 專長: Machine Learning、Web Backend、Linux System
+* 興趣: 籃球、羽球、新知
+* 出沒地點: 金門、新竹、台北
 
-* I’m **Yu-Cheng(Rick)Chen(陳昱誠)**,a student in the Department of **Computer Science Information Engineering** in **National Quemoy University**
-* Born on **October 10, 2000**, I am the eldest of two children in my family
+## 校內學習歷程
 
-## Interests and Personalities 
+### 獲獎紀錄
+* 大二上系排第5名
+* 大二下系排第5名
+* 大三下系排第4名
+* 校內電競比賽英雄聯盟組第一名
+* 建校25週年校慶籃球賽男子組季軍
+* 
+### 專題: 機器學習運用於醫學影像分析以阿茲海默症為例
 
-* I'm a **curious person** who **enjoys trying new things** since I was a kid. I enjoy **basketball**, **playing guitar**, and **reading books** outside of my leisure time.
-*  I like to **spread joy** to my family and friends around me, and I will put my heart and soul into things that interest me.
+### 專案與課堂成果
+1. 使用Python透過TDD模式實作To-do-list並透過unit-test、selenium進行自動化測試
+2. 使用Django celery結合redis進行網站狀態之即時監控與紀錄
+3. 透過Machine Learning
+## 校外學習歷程
 
-## Learning experience
-
-|name | time |  
+|名稱 | 時間 |  
 |:----: |:------:|
-|completed **ASVDA Deep learning for Industrial Big Data**  | Aug 24, 2020 <br>to <br> Aug 27, 2020 |
-|completed **NCKU Human Research Ethics** | Oct 30,2020|
-|passed **TQC Mobile Device Application Professional Level** | May 1,2021|
-|passed **Center for Taiwan Academic Research Ethics Education Certificate of Completion**  | Jun 26,2021 |
-|passed **TQC Linux Network Management Professional Level** |Nov 13,2021 |
-|passed **TQC Fundamentals of e-Commerce Professional Level** | Nov 13,2021 |
-|passed **TQC artificial intelligence applications and technology** | Mar 23,2022 |
-|completed **AIS3 Kinmen camp** | Apr 3,2022 |
-|exchange to **National Taiwan Normal University EE** | Sep, 1,2022 <br> to <br> Jan,16,2022 |
+|修習 **亞洲矽谷學院與交大IBM舉辦之深度學習與工業大數據課程**共32小時課程  | 2020-08-24 ~ 2020-8-27 |
+|修習 **國立成功大學人類研究倫理審查委員會舉辦之研究倫理教育課程**共計3小時 | 2020-10-30|
+|通過 **TQC 行動裝置應用 專業級** |2021-05-01|
+|修習 **臺灣學術倫理教育資源中心之「學術研究倫理教育課程**修課時數累積共8小時20分鐘  | 2021-06-26 |
+|通過**TQC Linux網路管理 專業級** |2021-11-13 |
+|通過**TQC 電子商務概論 專業級** | 2021-11-13 |
+|通過**TQC 人工智慧技術與應用 專業級** | 2022-05-23 |
+|擔任**AIS3 2022金門資安體驗營**工作人員 工作人員 | 2022-04-02 ~ 2022-04-03 |
+|交換至 **台灣師範大學電機系**就讀 | 2022-09-01 ~ 2022-01-16 |
 
-## Work experience
+## 工作經驗
 
-|name | time |
-|:----:|:----:|
-|**銀座杏子日式豬排新竹大魯閣店**擔任**內場工讀生** | 2019. 03 ~ 2019.08|
-|**金沙大地國際渡假飯店**擔任**櫃台服務生** |2020.09 ~ 2021.02|
+|名稱 | 職務|時間 |
+|:----:|:----:|:----:|
+|銀座杏子日式豬排新竹大魯閣店|內場工讀生| 2019. 03 ~ 2019.08|
+|金沙大地國際渡假飯店|櫃台服務生|2020.09 ~ 2021.02|
+|聯瞻資訊股份有限公司| 軟體工程實習生| 2022-07-04 ~ |
