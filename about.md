@@ -20,7 +20,7 @@
 
 ### 專題: 機器學習運用於醫學影像分析以阿茲海默症為例
 * 透過深度學習技術訓練出三個深度學習模型,三個模型的辨識準確率皆可達到95%以上,並建置阿茲海默症助診系統,透過訓練出的模型對影像進行一個線上的評估,上傳之影像則採不記名方式儲存,以供學術上使用,並透過內建的會員留言系統,讓醫生可以在影像下方進行留言,討論各自的看法。 
-* 使用技術: Python, Django ,Keras&Tensorflow 
+* 使用技術: **Python**, **Django** ,**Keras&Tensorflow**, **HTML**,**CSS**,**JavaScript** 
 ### 專案與課堂成果
 1. 使用Python Django框架結合TDD開發模式，建置To-do-list網站，並透過unit-test、selenium進行自動化測試。
 2. 透過flask結合sqlite在pythonanywhere上架站，[網址](https://rick20001010.pythonanywhere.com/index)。
