@@ -6,7 +6,14 @@ tag : Linux
 date : 2022-08-04
 ---
 
-## 探討fluent-bit 使用狀況
+## fluent-bit 使用狀況
+### 官方聲明
+* 2020 年 Fluent Bit 部署超過2.2 億次，並且每天繼續部署超過100 萬次。
+
+![image](https://user-images.githubusercontent.com/62127656/182776901-ff986e77-ed10-4b06-9f78-4e518c1ee981.png)
+
+* 使用 apache license2.0，提供個人及商業上使用。
+
 ### Google
 ![image](https://user-images.githubusercontent.com/62127656/182534146-2a53e071-5c88-4dee-8a21-afe19ca72169.png)
 ![image](https://user-images.githubusercontent.com/62127656/182534604-e409cdcd-f8d3-4d88-93e9-95b09f1ce5d5.png)
@@ -18,6 +25,12 @@ date : 2022-08-04
 
 ![image](https://user-images.githubusercontent.com/62127656/182535795-0c1fa8e2-9092-45ff-9d57-fd4fc20f0823.png)
 ![image](https://user-images.githubusercontent.com/62127656/182535799-49481b96-2852-47af-b682-0d4d3a4e924e.png)
+
+![image](https://user-images.githubusercontent.com/62127656/182778817-9a99fcc6-d76e-4c3b-b76c-2046beffbbc1.png)
+![image](https://user-images.githubusercontent.com/62127656/182778911-8f986452-c1b0-49a8-bce0-546b118e4532.png)
+![image](https://user-images.githubusercontent.com/62127656/182779224-b120390e-35ec-4bee-b8b4-2910688ec292.png)
+![image](https://user-images.githubusercontent.com/62127656/182779277-184452c7-666f-4a37-a013-8533fc0197f5.png)
+
 
 ## plugins
 
