@@ -24,3 +24,27 @@
    * Interval_Sec : 一秒一次，預設為1 (1為true 0為false)
    * Interval_NSec: 一奈秒一次，預設為0 
    * PID: 只針對指定PID的process去進行偵測，沒設就整體電腦
+
+### health 
+* tcp port是否開放
+
+![image](https://user-images.githubusercontent.com/62127656/182757795-9600c132-adb8-4ed0-b82c-21f56738b5d0.png)
+> 會顯示alive 為true or false
+
+```
+[INPUT]
+    name health
+    tag health.check
+    host 192.168.2.157
+    port 9487
+    interval_sec 1
+```
+
+* 可調調參數:
+   * Host : ip 或 域名
+   * Port : 要偵測的port
+   * Interval_Sec : 一秒一次 ,預設為1
+   * Interval_NSec : 一奈秒一次，預設為0
+   * Alert : 如果是enabled則只有port掛掉才傳message 預設為disabled
+   * Add_Host : 如果是true，則添加 hostname欄位，預設為false
+   * Add_Port : 如果是true，則添加port欄位，預設為false
