@@ -118,3 +118,6 @@ date : 2022-08-04
     oneshot false
 ```
 ![image](https://user-images.githubusercontent.com/62127656/182776255-4625968a-97ee-4e51-bf41-d4a5a11cbb95.png)
+
+
+### config 爆掉會crash
