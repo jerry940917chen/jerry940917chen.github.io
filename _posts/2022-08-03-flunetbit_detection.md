@@ -1,3 +1,11 @@
+---
+layout : post
+title : fluent-bit相關內容
+author : Rick Chen
+tag : Linux
+date : 2022-08-04
+---
+
 ## 探討fluent-bit 使用狀況
 ### Google
 ![image](https://user-images.githubusercontent.com/62127656/182534146-2a53e071-5c88-4dee-8a21-afe19ca72169.png)
@@ -48,3 +56,52 @@
    * Alert : 如果是enabled則只有port掛掉才傳message 預設為disabled
    * Add_Host : 如果是true，則添加 hostname欄位，預設為false
    * Add_Port : 如果是true，則添加port欄位，預設為false
+
+### memory
+* 監控memory 跟 swap的total used free
+* 沒有其它參數可調
+```
+[INPUT]
+    name mem
+    tag memory.local
+```
+
+![image](https://user-images.githubusercontent.com/62127656/182773694-19c115fb-89e5-4ea2-9de5-ba3c5e79d84b.png)
+
+
+### disk 
+* 監控硬碟讀寫狀況，會有read and write 兩個欄位
+* 可調參數:
+   * Interval_Sec : 秒為單位紀錄 default 為 1
+   * Interval_NSec : 奈秒為單位紀錄 default 為 0
+   * Dev_Name : 可以輸入裝置的名稱讓他只讀那個 default 為 all disks
+
+```
+[INPUT]
+    name disk
+    tag disk.local
+    interval_sec 1
+```
+
+![image](https://user-images.githubusercontent.com/62127656/182774013-2aeb879a-f2ad-428e-bae3-f9f65a37365d.png)
+
+### Exec
+* 允許執行外部指令或程式以及蒐集事件的log
+* 可調參數
+  * command : 要下的指令
+  * Parser : 去parser指令後得到的結果
+  * Interval_Sec : 以秒為單位執行
+  * Interval_NSec : 以奈秒為單位執行
+  * Buf_Size : Buffer區的大小
+  * Oneshot : 是否只在fluentbit 啟動的時候執行 default為false
+
+```
+[INPUT]
+    name exec
+    tag exec.ls
+    command cat /root/test123.log
+    interval_sec 1
+    Buf_size 8mb
+    oneshot false
+```
+![image](https://user-images.githubusercontent.com/62127656/182776255-4625968a-97ee-4e51-bf41-d4a5a11cbb95.png)
