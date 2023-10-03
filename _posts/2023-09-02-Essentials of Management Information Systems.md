@@ -6,10 +6,7 @@ tags:
 - 管理
 date: 2023-09-01 01:45 
 ---
-:::success
-**資安課程**
->[time=Sat, Aug 26, 2023 1:43 AM]
-:::
+
 customer 客戶
 server 服務器
 intiate 啟動
