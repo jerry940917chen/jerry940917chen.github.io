@@ -6,13 +6,6 @@ tags:
 - 管理
 date: 2023-09-01 01:45 
 ---
-
-customer 客戶
-server 服務器
-intiate 啟動
-execute 執行
-performance 績效
-constraint 限制
 # 第一章
 ## 1-1、1-2什麼是資訊管理?
 - 以資訊科技為基礎的管理、組織
