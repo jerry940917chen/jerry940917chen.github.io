@@ -3,9 +3,10 @@ layout: post
 title: 人才培育計畫課程筆記
 author:jerry chen
 tags:
-- 資訊安全
-date: 2023-08-24 04:08 
+- 管理
+date: 2023-08-24 04:08  
 ---
+
 
 # 程式安全
 ## nc使用&ncat(連線遠端主機)
