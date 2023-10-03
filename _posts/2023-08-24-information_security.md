@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 人才培育計畫課程筆記
-author:jerry chen
+author: jerry chen
 tags:
 - 管理
 date: 2023-08-24 04:08  
