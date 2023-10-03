@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 資訊管理導論
+title: 資訊安全導論
 author: jerry chen
-tags:管理
-- 
+tags:
+- 管理
 date: 2023-09-01 01:45 
 ---
 :::success
