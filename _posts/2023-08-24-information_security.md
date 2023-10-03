@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 人才培育計畫課程筆記
-author: Rick Chen
+author:jerry chen
 tags:
 - 資訊安全
 date: 2023-08-24 04:08 
